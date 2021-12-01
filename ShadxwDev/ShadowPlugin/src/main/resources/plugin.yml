@@ -1,0 +1,7 @@
+name: ShadowPlugin
+version: '${project.version}'
+main: uk.co.tmdavies.shadowplugin.ShadowPlugin
+api-version: 1.17
+authors: [ Carbonate ]
+description: Base Library for Shadow Plugins
+website: https://www.tmdavies.co.uk/
